@@ -9,7 +9,8 @@ public class q9 {
             System.out.println("É par.");
         }
         else  {System.out.println("É ímpar");};
-
+     
+        teclado.close();
     };
 };
 

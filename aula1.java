@@ -23,8 +23,11 @@ public class aula1 {
         }
         else { System.out.println ("Rprovado" ); }
 
-    } {
+
+        teclado.close();
+
+    } 
         
-    }
+    
 }
 

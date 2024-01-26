@@ -7,6 +7,8 @@ public class q3 {
         double elevarQuadrado = teclado.nextInt();
         double mult = (elevarQuadrado * elevarQuadrado);
         System.out.println(mult);
-
+     
+        teclado.close();
     }
+
 }

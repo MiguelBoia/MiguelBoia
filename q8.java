@@ -12,5 +12,6 @@ public class q8 {
        }
        else {System.out.println("Diferentes." );
     };  
+    teclado.close();
     };
 };

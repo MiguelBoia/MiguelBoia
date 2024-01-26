@@ -1,4 +1,4 @@
-import java.security.PublicKey;
+
 import java.util.Scanner;
 
 public class q2 {
@@ -9,5 +9,6 @@ public class q2 {
         double polegada = 25.4;
         double mult = (valorChuva * polegada );
         System.out.println(mult);
+        teclado.close();
     }
 }
